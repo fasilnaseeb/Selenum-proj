@@ -7,4 +7,6 @@ public class BaseTest implements IAutoConstant {
 
 	
 	WebDriver driver = new ChromeDriver();
+	
+	driver.get("");
 }
